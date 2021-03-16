@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-./placards.js
+/placards.js
 
 # testing
 /coverage
