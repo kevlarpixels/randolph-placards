@@ -30,7 +30,7 @@ class App extends Component {
         })
         return (
             <div className='tc'>
-                <h1 className='mt0 pt3 pb3 f4 green'>Randolph Parking Program</h1>
+                <h1 className='mt0 pt3 pb3 f4 green'>Randolph Parking Program App</h1>
                 <SearchBox searchChange={this.OnSearchChange} />
                 <Scroll>
                     <CardList placards={filteredPlacards} />
