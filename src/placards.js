@@ -1137,10 +1137,10 @@ export const placards = [
       "Address": "6169 Otis",
       "Phone_Number": "323 204 6576",
       "Email": "josecocado32@gmail.com",
-      "Vehicle_One_License_Plate": "7HIA187",
-      "Vehicle_One_Make": "Toyota",
-      "Vehicle_One_Model": "RV",
-      "Vehicle_One_Year": 2000,
+      "Vehicle_One_License_Plate": "8UKC289",
+      "Vehicle_One_Make": "Ford",
+      "Vehicle_One_Model": "Explorer",
+      "Vehicle_One_Year": 2010,
       "Assigned_Parking_Stall_Number": 113
     },
     {
